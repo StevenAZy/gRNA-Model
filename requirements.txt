@@ -1,3 +1,4 @@
-torch==
-transformers==
-esm==
+torch==2.5.1
+transformers==4.46.3
+fair-esm==1.0.0
+fairscale==0.4.13
